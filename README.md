@@ -1,0 +1,2 @@
+# assets
+PNG, GIF, ... etc
